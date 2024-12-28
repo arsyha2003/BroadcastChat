@@ -1,0 +1,16 @@
+C:\MYFOLDER\Coding\Academy\UDPChat\bin\Debug\net8.0-windows\UDPChat.exe
+C:\MYFOLDER\Coding\Academy\UDPChat\bin\Debug\net8.0-windows\UDPChat.deps.json
+C:\MYFOLDER\Coding\Academy\UDPChat\bin\Debug\net8.0-windows\UDPChat.runtimeconfig.json
+C:\MYFOLDER\Coding\Academy\UDPChat\bin\Debug\net8.0-windows\UDPChat.dll
+C:\MYFOLDER\Coding\Academy\UDPChat\bin\Debug\net8.0-windows\UDPChat.pdb
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.Form1.resources
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.csproj.GenerateResource.cache
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.AssemblyInfoInputs.cache
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.AssemblyInfo.cs
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.csproj.CoreCompileInputs.cache
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.dll
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\refint\UDPChat.dll
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.pdb
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\UDPChat.genruntimeconfig.cache
+C:\MYFOLDER\Coding\Academy\UDPChat\obj\Debug\net8.0-windows\ref\UDPChat.dll
